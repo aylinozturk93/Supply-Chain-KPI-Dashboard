@@ -8,7 +8,7 @@ The project combines relational database design, SQL analytics, Power BI dashboa
 
 ---
 
-# Dashboard Preview
+# 📊 Dashboard Preview
 
 ## Supply Chain Performance Dashboard
 
