@@ -12,19 +12,19 @@ The project combines relational database design, SQL analytics, Power BI dashboa
 
 ## Supply Chain Performance Dashboard
 
-![Dashboard](Images/dashboard_overview.png)
+![Dashboard](Images/Dashboard_Overview.png)
 
 ---
 
 ## Power BI Data Model
 
-![Power BI Data Model](Images/powerbi_data_model.png)
+![Power BI Data Model](Images/PowerBI_Data_Model.png)
 
 ---
 
 ## Database Schema (ER Diagram)
 
-![Database Schema](Images/database_schema.png)
+![Database Schema](Images/Database_Schema.png)
 
 ---
 
@@ -32,11 +32,11 @@ The project combines relational database design, SQL analytics, Power BI dashboa
 
 ### Dashboard Interface
 
-![Dashboard Interface](Images/frontend_dashboard.png)
+![Dashboard Interface](Images/Frontend_Dashboard.png)
 
 ### Supplier Entry Form
 
-![Supplier Entry](Images/frontend_supplier.png)
+![Supplier Entry](Images/Frontend_Supplier.png)
 
 ---
 
