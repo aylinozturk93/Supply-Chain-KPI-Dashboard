@@ -1,10 +1,14 @@
 # Supply Chain Performance & Forecast Analytics
 
-Power BI | SQL | MySQL | Python | Flask
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Python](https://img.shields.io/badge/Python-Analytics-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web%20Application-black?logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
 
-An end-to-end Supply Chain Analytics project developed as part of my Master's Degree in Management Information Systems.
+An end-to-end Supply Chain Analytics project developed as part of my **Master's Degree in Management Information Systems**.
 
-The project combines relational database design, SQL analytics, Power BI dashboards and a Python-based frontend to monitor supply chain performance and forecasting KPIs.
+The project integrates relational database design, SQL analytics, Power BI dashboards and a Flask-based frontend application to monitor supply chain performance and demand forecasting KPIs.
 
 ---
 
@@ -12,46 +16,56 @@ The project combines relational database design, SQL analytics, Power BI dashboa
 
 ## Supply Chain Performance Dashboard
 
-<img src="Images/dashboard_overview.png" width="850">
+<p align="center">
+  <img src="Images/Dashboard_Overview.png" width="900">
+</p>
 
 ---
 
-## Power BI Data Model
+# 🔗 Power BI Data Model
 
-![Power BI Data Model](Images/PowerBI_Data_Model.png)
-
----
-
-## Database Schema (ER Diagram)
-
-![Database Schema](Images/Database_Schema.png)
+<p align="center">
+  <img src="Images/PowerBI_Data_Model.png" width="900">
+</p>
 
 ---
 
-## Python Frontend
+# 🗄️ Database Schema (ER Diagram)
 
-### Dashboard Interface
-
-![Dashboard Interface](Images/Frontend_Dashboard.png)
-
-### Supplier Entry Form
-
-![Supplier Entry](Images/Frontend_Supplier.png)
+<p align="center">
+  <img src="Images/Database_Schema.png" width="900">
+</p>
 
 ---
 
-# Project Objectives
+# 💻 Python Frontend
 
-- Design a relational supply chain database
-- Build a normalized database schema
+## Dashboard Interface
+
+<p align="center">
+  <img src="Images/Frontend_Dashboard.png" width="900">
+</p>
+
+### Supplier Entry Module
+
+<p align="center">
+  <img src="Images/Frontend_Supplier.png" width="900">
+</p>
+
+---
+
+# 🎯 Project Objectives
+
+- Design a normalized relational database for supply chain operations
+- Build an end-to-end supply chain analytics workflow
 - Analyze operational performance using SQL
 - Develop interactive Power BI dashboards
-- Monitor forecasting and inventory KPIs
-- Demonstrate a simple Python frontend for data entry
+- Monitor inventory, logistics and forecasting KPIs
+- Demonstrate a simple Python-based frontend for data entry
 
 ---
 
-# Key Performance Indicators
+# 📈 Key Performance Indicators
 
 - Forecast Accuracy
 - Inventory Turnover
@@ -63,7 +77,7 @@ The project combines relational database design, SQL analytics, Power BI dashboa
 
 ---
 
-# Technologies
+# 🛠️ Technologies
 
 - MySQL
 - SQL
@@ -72,10 +86,11 @@ The project combines relational database design, SQL analytics, Power BI dashboa
 - Flask
 - HTML
 - Excel
+- ERwin Data Modeler
 
 ---
 
-# Repository Structure
+# 📂 Repository Structure
 
 ```text
 Supply-Chain-Performance-Forecast-Analytics
@@ -117,9 +132,11 @@ Supply-Chain-Performance-Forecast-Analytics
 
 ---
 
-# Database Design
+# 🗄️ Database Design
 
-The database was designed using a normalized relational model including:
+The relational database was designed using **ERwin Data Modeler** and implemented in **MySQL** through Forward Engineering.
+
+The data model includes the following entities:
 
 - Product
 - Warehouse
@@ -130,13 +147,13 @@ The database was designed using a normalized relational model including:
 - Forecast
 - Actual Demand
 
-The schema was implemented in MySQL using Forward Engineering.
+The schema supports inventory management, procurement, supplier performance analysis and demand forecasting scenarios.
 
 ---
 
-# Power BI Dashboard
+# 📊 Power BI Dashboard
 
-The Power BI dashboard provides interactive KPI monitoring for supply chain operations.
+The interactive Power BI dashboard was developed to monitor operational and forecasting performance across the supply chain.
 
 Dashboard components include:
 
@@ -145,12 +162,13 @@ Dashboard components include:
 - Demand Trend Analysis
 - Product Stockout Risk
 - Forecast Accuracy Monitoring
+- Inventory Performance Metrics
 
 ---
 
-# Python Frontend
+# 💻 Python Frontend
 
-A lightweight Flask application was developed to demonstrate basic data entry operations for supply chain entities.
+A lightweight Flask-based web application was developed to simulate operational data entry.
 
 Available modules include:
 
@@ -159,9 +177,11 @@ Available modules include:
 - Purchase Order Entry
 - Forecast Entry
 
+The frontend demonstrates how operational data can be captured before being processed for analytics and reporting.
+
 ---
 
-# Project Files
+# 📄 Project Files
 
 | File | Description |
 |------|-------------|
@@ -169,15 +189,16 @@ Available modules include:
 | Supply_Chain_Performance_Dashboard.pbix | Interactive Power BI dashboard |
 | Forward_Engineering.sql | MySQL database schema |
 | Input_Data | Sample source datasets |
-| Output_Data | SQL query outputs and KPI analyses |
+| Output_Data | SQL analysis results and KPI outputs |
 | Python_Frontend | Flask-based frontend application |
 
 ---
 
-# Future Improvements
+# 🚀 Future Improvements
 
-- Real-time database integration
 - Automated ETL pipeline
-- Forecasting using Machine Learning
-- Cloud deployment
+- Machine Learning-based demand forecasting
+- Cloud deployment (Azure / AWS)
+- REST API integration
+- Real-time dashboard updates
 - Interactive web dashboard
