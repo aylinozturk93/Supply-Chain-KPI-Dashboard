@@ -1,22 +1,42 @@
-# Supply-Chain-KPI-Dashboard
-Supply Chain Analytics Dashboard using SQL, Python and Power BI
+# Supply Chain Performance & Forecast Analytics
+
 ## Overview
 
-This project demonstrates a Supply Chain Performance Dashboard developed using SQL and Power BI.
+This project demonstrates an end-to-end supply chain analytics solution developed to measure operational performance and forecasting efficiency.
 
-The dashboard measures key logistics and inventory performance indicators.
+The dashboard provides business insights through KPIs related to inventory management, logistics performance, and demand forecasting.
 
-## KPIs
+---
 
-- OTIF
+## Key Performance Indicators
+
+- OTIF (On Time In Full)
 - Inventory Turnover
 - Stockout Rate
 - Forecast Accuracy (MAPE)
-- Order Fulfillment Performance
+- Order Performance
 
-## Tools
+---
+
+## Technologies
 
 - Power BI
 - SQL
 - Python
 - Excel
+
+---
+
+## Features
+
+- Interactive dashboards
+- KPI monitoring
+- Forecast analysis
+- Supply chain performance evaluation
+- Business intelligence reporting
+
+---
+
+## Project Type
+
+Academic project developed during my Master's Degree in Management Information Systems.
