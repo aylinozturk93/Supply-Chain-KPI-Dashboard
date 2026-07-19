@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Forecast Entry</title>
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background:#f4f6f8;
+            margin:0;
+            color:#1f2937;
+        }
+
+        .header{
+            background:#0f172a;
+            color:white;
+            padding:25px 40px;
+        }
+
+        .container{
+            width:500px;
+            margin:40px auto;
+            background:white;
+            padding:30px;
+            border-radius:16px;
+            box-shadow:0 4px 14px rgba(0,0,0,0.08);
+        }
+
+        label{
+            display:block;
+            margin-top:15px;
+            font-weight:bold;
+        }
+
+        input{
+            width:100%;
+            padding:12px;
+            border:1px solid #d1d5db;
+            border-radius:10px;
+            margin-top:8px;
+            box-sizing:border-box;
+        }
+
+        button{
+            width:100%;
+            margin-top:25px;
+            background:#2563eb;
+            color:white;
+            border:none;
+            padding:14px;
+            border-radius:10px;
+            font-size:16px;
+            cursor:pointer;
+        }
+
+        button:hover{
+            background:#1d4ed8;
+        }
+
+        .back{
+            display:block;
+            margin-top:20px;
+            text-align:center;
+            text-decoration:none;
+            color:#2563eb;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="header">
+    <h1>Forecast Entry</h1>
+</div>
+
+<div class="container">
+
+    <form method="POST">
+
+        <label>Forecast ID</label>
+        <input type="number" name="forecast_id">
+
+        <label>Product ID</label>
+        <input type="number" name="product_id">
+
+        <label>Warehouse ID</label>
+        <input type="number" name="warehouse_id">
+
+        <label>Forecast Period</label>
+        <input type="date" name="forecast_period">
+
+        <label>Forecast Quantity</label>
+        <input type="number" name="forecast_quantity">
+
+        <label>Created Date</label>
+        <input type="date" name="created_date">
+
+        <button type="submit">
+            Add Forecast
+        </button>
+
+    </form>
+
+    <a class="back" href="/">
+        ← Back to Dashboard
+    </a>
+
+</div>
+
+</body>
+</html>

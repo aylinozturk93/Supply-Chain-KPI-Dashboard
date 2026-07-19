@@ -1,0 +1,217 @@
+product_name;warehouse_name;forecast_period;forecast_quantity;actual_quantity;forecast_deviation;error_percentage
+Oil Filter;Balkan Hub;1.05.2026;298;216;-82;37.96
+Oil Filter;Balkan Hub;1.04.2026;273;200;-73;36.50
+Oil Filter;Main Warehouse;1.06.2026;477;350;-127;36.29
+Oil Filter;Balkan Hub;1.02.2026;241;178;-63;35.39
+Oil Filter;EU Warehouse;1.06.2026;383;286;-97;33.92
+Oil Filter;Balkan Hub;1.06.2026;345;259;-86;33.20
+Oil Filter;Balkan Hub;1.03.2026;302;229;-73;31.88
+Radiator;EU Warehouse;1.01.2026;80;115;35;30.43
+Battery;Main Warehouse;1.03.2026;103;148;45;30.41
+Radiator;Balkan Hub;1.03.2026;55;79;24;30.38
+Radiator;Main Warehouse;1.01.2026;74;106;32;30.19
+Battery;Balkan Hub;1.01.2026;61;87;26;29.89
+Battery;EU Warehouse;1.04.2026;82;116;34;29.31
+Oil Filter;EU Warehouse;1.01.2026;328;255;-73;28.63
+Battery;EU Warehouse;1.06.2026;92;128;36;28.13
+Battery;Balkan Hub;1.05.2026;96;133;37;27.82
+Radiator;Balkan Hub;1.01.2026;72;99;27;27.27
+Radiator;Balkan Hub;1.05.2026;80;110;30;27.27
+Radiator;Main Warehouse;1.02.2026;65;89;24;26.97
+Radiator;EU Warehouse;1.06.2026;76;104;28;26.92
+Oil Filter;EU Warehouse;1.02.2026;353;279;-74;26.52
+Battery;Main Warehouse;1.06.2026;126;171;45;26.32
+Battery;Main Warehouse;1.05.2026;123;166;43;25.90
+Battery;Balkan Hub;1.04.2026;78;105;27;25.71
+Radiator;Main Warehouse;1.05.2026;88;117;29;24.79
+Battery;EU Warehouse;1.03.2026;85;113;28;24.78
+Radiator;EU Warehouse;1.04.2026;85;113;28;24.78
+Radiator;EU Warehouse;1.02.2026;83;110;27;24.55
+Radiator;EU Warehouse;1.05.2026;87;115;28;24.35
+Radiator;Main Warehouse;1.03.2026;81;107;26;24.30
+Radiator;Main Warehouse;1.06.2026;128;169;41;24.26
+Oil Filter;Balkan Hub;1.01.2026;240;194;-46;23.71
+Battery;Balkan Hub;1.06.2026;85;111;26;23.42
+Radiator;Balkan Hub;1.06.2026;59;77;18;23.38
+Battery;EU Warehouse;1.01.2026;98;127;29;22.83
+Radiator;Balkan Hub;1.02.2026;38;49;11;22.45
+Radiator;Main Warehouse;1.04.2026;79;101;22;21.78
+Radiator;EU Warehouse;1.03.2026;93;118;25;21.19
+Battery;Balkan Hub;1.02.2026;60;75;15;20.00
+Battery;Balkan Hub;1.03.2026;65;81;16;19.75
+Battery;EU Warehouse;1.05.2026;135;168;33;19.64
+Oil Filter;Main Warehouse;1.04.2026;444;374;-70;18.72
+Battery;Main Warehouse;1.02.2026;126;155;29;18.71
+Battery;EU Warehouse;1.02.2026;102;125;23;18.40
+Oil Filter;Main Warehouse;1.03.2026;417;353;-64;18.13
+Battery;Main Warehouse;1.01.2026;87;106;19;17.92
+Oil Filter;EU Warehouse;1.04.2026;349;296;-53;17.91
+Oil Filter;EU Warehouse;1.03.2026;351;299;-52;17.39
+Battery;Main Warehouse;1.04.2026;142;171;29;16.96
+Clutch Kit;Balkan Hub;1.01.2026;44;38;-6;15.79
+Radiator;Balkan Hub;1.04.2026;44;52;8;15.38
+Clutch Kit;Balkan Hub;1.06.2026;39;34;-5;14.71
+Oil Filter;Main Warehouse;1.02.2026;404;353;-51;14.45
+Cabin Filter;Balkan Hub;1.04.2026;245;215;-30;13.95
+Oil Filter;Main Warehouse;1.01.2026;371;326;-45;13.80
+Air Filter;Main Warehouse;1.04.2026;400;352;-48;13.64
+Brake Pad;Balkan Hub;1.05.2026;261;230;-31;13.48
+Air Filter;Main Warehouse;1.02.2026;354;312;-42;13.46
+Air Filter;EU Warehouse;1.06.2026;353;312;-41;13.14
+Brake Pad;Balkan Hub;1.03.2026;216;191;-25;13.Eyl
+Wiper Blade;Main Warehouse;1.03.2026;237;272;35;Ara.87
+Spark Plug;EU Warehouse;1.05.2026;247;219;-28;Ara.79
+Clutch Kit;Main Warehouse;1.06.2026;103;118;15;Ara.71
+Wiper Blade;Balkan Hub;1.03.2026;142;126;-16;Ara.70
+Air Filter;EU Warehouse;1.03.2026;332;380;48;Ara.63
+Fuel Pump;Balkan Hub;1.05.2026;72;64;-8;Ara.50
+Timing Belt;Balkan Hub;1.03.2026;113;129;16;Ara.40
+Headlamp;Balkan Hub;1.04.2026;106;121;15;Ara.40
+Wiper Blade;Balkan Hub;1.05.2026;177;202;25;Ara.38
+Fuel Pump;Main Warehouse;1.02.2026;128;146;18;Ara.33
+Clutch Kit;EU Warehouse;1.06.2026;50;57;7;Ara.28
+Oil Filter;Main Warehouse;1.05.2026;469;418;-51;Ara.20
+Clutch Kit;Main Warehouse;1.04.2026;87;99;12;12.Ara
+Spark Plug;Main Warehouse;1.05.2026;337;383;46;12.Oca
+Fuel Pump;Balkan Hub;1.03.2026;88;100;12;12.00
+Timing Belt;Balkan Hub;1.01.2026;94;84;-10;Kas.90
+Spark Plug;Main Warehouse;1.02.2026;275;312;37;Kas.86
+Headlamp;EU Warehouse;1.01.2026;124;111;-13;Kas.71
+Fuel Pump;EU Warehouse;1.06.2026;106;95;-11;Kas.58
+Air Filter;EU Warehouse;1.04.2026;353;399;46;Kas.53
+Timing Belt;Balkan Hub;1.04.2026;124;140;16;Kas.43
+Timing Belt;Main Warehouse;1.04.2026;176;158;-18;Kas.39
+Cabin Filter;Balkan Hub;1.01.2026;186;167;-19;Kas.38
+Clutch Kit;Main Warehouse;1.01.2026;39;44;5;Kas.36
+Oil Filter;EU Warehouse;1.05.2026;373;335;-38;Kas.34
+Cabin Filter;Main Warehouse;1.01.2026;285;256;-29;Kas.33
+Fuel Pump;EU Warehouse;1.01.2026;71;80;9;Kas.25
+Wiper Blade;Main Warehouse;1.05.2026;250;225;-25;11.Kas
+Air Filter;Balkan Hub;1.05.2026;288;324;36;11.Kas
+Spark Plug;Balkan Hub;1.01.2026;160;144;-16;11.Kas
+Cabin Filter;Main Warehouse;1.06.2026;378;425;47;11.Haz
+Brake Pad;Balkan Hub;1.02.2026;201;181;-20;11.May
+Brake Pad;EU Warehouse;1.03.2026;258;290;32;11.Mar
+Headlamp;EU Warehouse;1.03.2026;151;136;-15;11.Mar
+Brake Pad;Main Warehouse;1.05.2026;376;339;-37;Eki.91
+Clutch Kit;Balkan Hub;1.02.2026;41;46;5;Eki.87
+Spark Plug;Balkan Hub;1.06.2026;205;185;-20;Eki.81
+Fuel Pump;Balkan Hub;1.01.2026;41;37;-4;Eki.81
+Headlamp;Balkan Hub;1.01.2026;93;84;-9;Eki.71
+Clutch Kit;Balkan Hub;1.04.2026;25;28;3;Eki.71
+Timing Belt;EU Warehouse;1.04.2026;134;150;16;Eki.67
+Clutch Kit;EU Warehouse;1.03.2026;42;47;5;Eki.64
+Timing Belt;EU Warehouse;1.05.2026;161;180;19;Eki.56
+Timing Belt;Main Warehouse;1.02.2026;170;154;-16;Eki.39
+Headlamp;EU Warehouse;1.05.2026;164;183;19;Eki.38
+Brake Pad;Main Warehouse;1.01.2026;313;285;-28;Eyl.82
+Wiper Blade;Main Warehouse;1.02.2026;224;204;-20;Eyl.80
+Air Filter;Balkan Hub;1.02.2026;240;266;26;Eyl.77
+Clutch Kit;EU Warehouse;1.02.2026;37;41;4;Eyl.76
+Air Filter;Balkan Hub;1.01.2026;248;226;-22;Eyl.73
+Fuel Pump;Balkan Hub;1.06.2026;68;62;-6;Eyl.68
+Fuel Pump;Balkan Hub;1.02.2026;66;73;7;Eyl.59
+Cabin Filter;Main Warehouse;1.05.2026;370;409;39;Eyl.54
+Cabin Filter;EU Warehouse;1.04.2026;297;328;31;Eyl.45
+Brake Pad;EU Warehouse;1.02.2026;241;266;25;Eyl.40
+Brake Pad;Main Warehouse;1.03.2026;327;299;-28;Eyl.36
+Spark Plug;EU Warehouse;1.04.2026;233;257;24;Eyl.34
+Timing Belt;EU Warehouse;1.03.2026;149;164;15;Eyl.15
+Air Filter;Balkan Hub;1.03.2026;270;297;27;9.Eyl
+Cabin Filter;Balkan Hub;1.05.2026;223;245;22;A?u.98
+Clutch Kit;Main Warehouse;1.03.2026;61;56;-5;A?u.93
+Fuel Pump;EU Warehouse;1.02.2026;72;79;7;A?u.86
+Air Filter;EU Warehouse;1.01.2026;289;317;28;A?u.83
+Spark Plug;Main Warehouse;1.06.2026;346;379;33;A?u.71
+Brake Pad;EU Warehouse;1.01.2026;244;267;23;A?u.61
+Fuel Pump;Main Warehouse;1.03.2026;96;105;9;A?u.57
+Headlamp;Main Warehouse;1.02.2026;165;152;-13;A?u.55
+Wiper Blade;Balkan Hub;1.01.2026;153;141;-12;A?u.51
+Wiper Blade;Balkan Hub;1.02.2026;140;153;13;A?u.50
+Spark Plug;Balkan Hub;1.02.2026;152;166;14;A?u.43
+Wiper Blade;EU Warehouse;1.01.2026;155;143;-12;A?u.39
+Cabin Filter;EU Warehouse;1.03.2026;272;251;-21;A?u.37
+Wiper Blade;EU Warehouse;1.06.2026;247;269;22;A?u.18
+Clutch Kit;Main Warehouse;1.05.2026;81;88;7;Tem.95
+Air Filter;Main Warehouse;1.03.2026;398;369;-29;Tem.86
+Fuel Pump;Main Warehouse;1.05.2026;110;102;-8;Tem.84
+Headlamp;Main Warehouse;1.06.2026;155;168;13;Tem.74
+Brake Pad;Balkan Hub;1.01.2026;196;182;-14;Tem.69
+Timing Belt;EU Warehouse;1.01.2026;123;133;10;Tem.52
+Headlamp;Main Warehouse;1.03.2026;130;121;-9;Tem.44
+Wiper Blade;Main Warehouse;1.06.2026;250;270;20;Tem.41
+Cabin Filter;EU Warehouse;1.01.2026;226;244;18;Tem.38
+Spark Plug;EU Warehouse;1.02.2026;229;247;18;Tem.29
+Fuel Pump;Main Warehouse;1.04.2026;115;124;9;Tem.26
+Clutch Kit;Balkan Hub;1.05.2026;45;42;-3;Tem.14
+Wiper Blade;Balkan Hub;1.04.2026;135;145;10;Haz.90
+Fuel Pump;Main Warehouse;1.01.2026;112;105;-7;Haz.67
+Clutch Kit;EU Warehouse;1.05.2026;48;45;-3;Haz.67
+Brake Pad;Main Warehouse;1.02.2026;294;276;-18;Haz.52
+Brake Pad;EU Warehouse;1.04.2026;316;338;22;Haz.51
+Cabin Filter;EU Warehouse;1.05.2026;279;298;19;Haz.38
+Cabin Filter;Main Warehouse;1.02.2026;285;268;-17;Haz.34
+Air Filter;Main Warehouse;1.01.2026;329;310;-19;Haz.13
+Fuel Pump;Balkan Hub;1.04.2026;88;83;-5;6.?ub
+Spark Plug;Main Warehouse;1.01.2026;235;250;15;6.00
+Cabin Filter;Balkan Hub;1.03.2026;197;186;-11;May.91
+Wiper Blade;EU Warehouse;1.04.2026;196;208;12;May.77
+Clutch Kit;Main Warehouse;1.02.2026;92;87;-5;May.75
+Spark Plug;Main Warehouse;1.03.2026;299;317;18;May.68
+Spark Plug;Balkan Hub;1.04.2026;173;164;-9;May.49
+Timing Belt;EU Warehouse;1.02.2026;135;128;-7;May.47
+Headlamp;Balkan Hub;1.05.2026;105;111;6;May.41
+Headlamp;Main Warehouse;1.01.2026;160;152;-8;May.26
+Spark Plug;EU Warehouse;1.01.2026;230;242;12;Nis.96
+Clutch Kit;EU Warehouse;1.04.2026;77;81;4;Nis.94
+Headlamp;EU Warehouse;1.02.2026;107;102;-5;Nis.90
+Fuel Pump;EU Warehouse;1.05.2026;79;83;4;Nis.82
+Spark Plug;Balkan Hub;1.05.2026;180;189;9;Nis.76
+Clutch Kit;EU Warehouse;1.01.2026;69;66;-3;Nis.55
+Cabin Filter;Main Warehouse;1.04.2026;344;360;16;Nis.44
+Spark Plug;EU Warehouse;1.06.2026;259;248;-11;Nis.44
+Wiper Blade;EU Warehouse;1.02.2026;186;194;8;4.Ara
+Air Filter;EU Warehouse;1.02.2026;286;298;12;4.Mar
+Timing Belt;Balkan Hub;1.05.2026;122;127;5;Mar.94
+Wiper Blade;Main Warehouse;1.01.2026;203;211;8;Mar.79
+Clutch Kit;Balkan Hub;1.03.2026;56;54;-2;Mar.70
+Timing Belt;EU Warehouse;1.06.2026;189;196;7;Mar.57
+Timing Belt;Main Warehouse;1.06.2026;191;185;-6;Mar.24
+Air Filter;Main Warehouse;1.06.2026;462;477;15;Mar.14
+Fuel Pump;Main Warehouse;1.06.2026;133;129;-4;3.Eki
+Cabin Filter;Main Warehouse;1.03.2026;309;300;-9;3.00
+Headlamp;Balkan Hub;1.06.2026;106;103;-3;?ub.91
+Headlamp;EU Warehouse;1.04.2026;137;141;4;?ub.84
+Wiper Blade;EU Warehouse;1.03.2026;173;178;5;?ub.81
+Wiper Blade;EU Warehouse;1.05.2026;220;226;6;?ub.65
+Air Filter;EU Warehouse;1.05.2026;337;346;9;?ub.60
+Headlamp;Main Warehouse;1.05.2026;190;195;5;?ub.56
+Headlamp;Main Warehouse;1.04.2026;170;166;-4;?ub.41
+Air Filter;Main Warehouse;1.05.2026;428;438;10;?ub.28
+Timing Belt;Main Warehouse;1.01.2026;161;158;-3;Oca.90
+Headlamp;Balkan Hub;1.03.2026;106;108;2;Oca.85
+Timing Belt;Balkan Hub;1.06.2026;113;115;2;Oca.74
+Brake Pad;Balkan Hub;1.06.2026;249;253;4;Oca.58
+Timing Belt;Main Warehouse;1.03.2026;195;192;-3;Oca.56
+Brake Pad;Main Warehouse;1.04.2026;342;337;-5;Oca.48
+Fuel Pump;EU Warehouse;1.03.2026;73;72;-1;Oca.39
+Cabin Filter;Balkan Hub;1.06.2026;227;224;-3;Oca.34
+Cabin Filter;EU Warehouse;1.02.2026;232;229;-3;Oca.31
+Brake Pad;Main Warehouse;1.06.2026;391;386;-5;Oca.30
+Air Filter;Balkan Hub;1.06.2026;303;307;4;Oca.30
+Cabin Filter;EU Warehouse;1.06.2026;315;311;-4;Oca.29
+Air Filter;Balkan Hub;1.04.2026;256;253;-3;Oca.19
+Fuel Pump;EU Warehouse;1.04.2026;95;94;-1;1.Haz
+Cabin Filter;Balkan Hub;1.02.2026;190;192;2;1.Nis
+Headlamp;Balkan Hub;1.02.2026;111;110;-1;0.91
+Wiper Blade;Main Warehouse;1.04.2026;248;250;2;0.80
+Headlamp;EU Warehouse;1.06.2026;127;126;-1;0.79
+Brake Pad;EU Warehouse;1.05.2026;293;295;2;0.68
+Spark Plug;Balkan Hub;1.03.2026;170;169;-1;0.59
+Wiper Blade;Balkan Hub;1.06.2026;182;183;1;0.55
+Timing Belt;Main Warehouse;1.05.2026;187;186;-1;0.54
+Spark Plug;EU Warehouse;1.03.2026;217;216;-1;0.46
+Brake Pad;EU Warehouse;1.06.2026;307;306;-1;0.33
+Spark Plug;Main Warehouse;1.04.2026;276;276;0;0.00
+Brake Pad;Balkan Hub;1.04.2026;240;240;0;0.00
+Timing Belt;Balkan Hub;1.02.2026;93;93;0;0.00

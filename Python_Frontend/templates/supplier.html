@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Supplier Entry</title>
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background:#f4f6f8;
+            margin:0;
+            color:#1f2937;
+        }
+
+        .header{
+            background:#0f172a;
+            color:white;
+            padding:25px 40px;
+        }
+
+        .container{
+            width:500px;
+            margin:40px auto;
+            background:white;
+            padding:30px;
+            border-radius:16px;
+            box-shadow:0 4px 14px rgba(0,0,0,0.08);
+        }
+
+        h1{
+            margin:0;
+        }
+
+        label{
+            display:block;
+            margin-top:15px;
+            font-weight:bold;
+        }
+
+        input{
+            width:100%;
+            padding:12px;
+            border:1px solid #d1d5db;
+            border-radius:10px;
+            margin-top:8px;
+            box-sizing:border-box;
+        }
+
+        button{
+            width:100%;
+            margin-top:25px;
+            background:#2563eb;
+            color:white;
+            border:none;
+            padding:14px;
+            border-radius:10px;
+            font-size:16px;
+            cursor:pointer;
+        }
+
+        button:hover{
+            background:#1d4ed8;
+        }
+
+        .back{
+            display:block;
+            margin-top:20px;
+            text-align:center;
+            text-decoration:none;
+            color:#2563eb;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="header">
+    <h1>Supplier Entry</h1>
+</div>
+
+<div class="container">
+
+    <form method="POST">
+
+        <label>Supplier ID</label>
+        <input type="number" name="supplier_id">
+
+        <label>Supplier Name</label>
+        <input type="text" name="supplier_name">
+
+        <label>Country</label>
+        <input type="text" name="country">
+
+        <label>Status</label>
+        <input type="text" name="status">
+
+        <button type="submit">
+            Add Supplier
+        </button>
+
+    </form>
+
+    <a class="back" href="/">
+        ← Back to Dashboard
+    </a>
+
+</div>
+
+</body>
+</html>

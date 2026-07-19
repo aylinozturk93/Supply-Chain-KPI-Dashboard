@@ -1,0 +1,217 @@
+product_name;warehouse_name;forecast_period;forecast_quantity;actual_quantity;forecast_accuracy
+Brake Pad;Main Warehouse;1.01.2026;313;285;0.90
+Brake Pad;Main Warehouse;1.02.2026;294;276;0.93
+Brake Pad;Main Warehouse;1.03.2026;327;299;0.91
+Brake Pad;Main Warehouse;1.04.2026;342;337;0.99
+Brake Pad;Main Warehouse;1.05.2026;376;339;0.89
+Brake Pad;Main Warehouse;1.06.2026;391;386;0.99
+Brake Pad;EU Warehouse;1.01.2026;244;267;0.91
+Brake Pad;EU Warehouse;1.02.2026;241;266;0.91
+Brake Pad;EU Warehouse;1.03.2026;258;290;0.89
+Brake Pad;EU Warehouse;1.04.2026;316;338;0.93
+Brake Pad;EU Warehouse;1.05.2026;293;295;0.99
+Brake Pad;EU Warehouse;1.06.2026;307;306;1.00
+Brake Pad;Balkan Hub;1.01.2026;196;182;0.92
+Brake Pad;Balkan Hub;1.02.2026;201;181;0.89
+Brake Pad;Balkan Hub;1.03.2026;216;191;0.87
+Brake Pad;Balkan Hub;1.04.2026;240;240;1.00
+Brake Pad;Balkan Hub;1.05.2026;261;230;0.87
+Brake Pad;Balkan Hub;1.06.2026;249;253;0.98
+Oil Filter;Main Warehouse;1.01.2026;371;326;0.86
+Oil Filter;Main Warehouse;1.02.2026;404;353;0.86
+Oil Filter;Main Warehouse;1.03.2026;417;353;0.82
+Oil Filter;Main Warehouse;1.04.2026;444;374;0.81
+Oil Filter;Main Warehouse;1.05.2026;469;418;0.88
+Oil Filter;Main Warehouse;1.06.2026;477;350;0.64
+Oil Filter;EU Warehouse;1.01.2026;328;255;0.71
+Oil Filter;EU Warehouse;1.02.2026;353;279;0.73
+Oil Filter;EU Warehouse;1.03.2026;351;299;0.83
+Oil Filter;EU Warehouse;1.04.2026;349;296;0.82
+Oil Filter;EU Warehouse;1.05.2026;373;335;0.89
+Oil Filter;EU Warehouse;1.06.2026;383;286;0.66
+Oil Filter;Balkan Hub;1.01.2026;240;194;0.76
+Oil Filter;Balkan Hub;1.02.2026;241;178;0.65
+Oil Filter;Balkan Hub;1.03.2026;302;229;0.68
+Oil Filter;Balkan Hub;1.04.2026;273;200;0.64
+Oil Filter;Balkan Hub;1.05.2026;298;216;0.62
+Oil Filter;Balkan Hub;1.06.2026;345;259;0.67
+Air Filter;Main Warehouse;1.01.2026;329;310;0.94
+Air Filter;Main Warehouse;1.02.2026;354;312;0.87
+Air Filter;Main Warehouse;1.03.2026;398;369;0.92
+Air Filter;Main Warehouse;1.04.2026;400;352;0.86
+Air Filter;Main Warehouse;1.05.2026;428;438;0.98
+Air Filter;Main Warehouse;1.06.2026;462;477;0.97
+Air Filter;EU Warehouse;1.01.2026;289;317;0.91
+Air Filter;EU Warehouse;1.02.2026;286;298;0.96
+Air Filter;EU Warehouse;1.03.2026;332;380;0.87
+Air Filter;EU Warehouse;1.04.2026;353;399;0.88
+Air Filter;EU Warehouse;1.05.2026;337;346;0.97
+Air Filter;EU Warehouse;1.06.2026;353;312;0.87
+Air Filter;Balkan Hub;1.01.2026;248;226;0.90
+Air Filter;Balkan Hub;1.02.2026;240;266;0.90
+Air Filter;Balkan Hub;1.03.2026;270;297;0.91
+Air Filter;Balkan Hub;1.04.2026;256;253;0.99
+Air Filter;Balkan Hub;1.05.2026;288;324;0.89
+Air Filter;Balkan Hub;1.06.2026;303;307;0.99
+Spark Plug;Main Warehouse;1.01.2026;235;250;0.94
+Spark Plug;Main Warehouse;1.02.2026;275;312;0.88
+Spark Plug;Main Warehouse;1.03.2026;299;317;0.94
+Spark Plug;Main Warehouse;1.04.2026;276;276;1.00
+Spark Plug;Main Warehouse;1.05.2026;337;383;0.88
+Spark Plug;Main Warehouse;1.06.2026;346;379;0.91
+Spark Plug;EU Warehouse;1.01.2026;230;242;0.95
+Spark Plug;EU Warehouse;1.02.2026;229;247;0.93
+Spark Plug;EU Warehouse;1.03.2026;217;216;1.00
+Spark Plug;EU Warehouse;1.04.2026;233;257;0.91
+Spark Plug;EU Warehouse;1.05.2026;247;219;0.87
+Spark Plug;EU Warehouse;1.06.2026;259;248;0.96
+Spark Plug;Balkan Hub;1.01.2026;160;144;0.89
+Spark Plug;Balkan Hub;1.02.2026;152;166;0.92
+Spark Plug;Balkan Hub;1.03.2026;170;169;0.99
+Spark Plug;Balkan Hub;1.04.2026;173;164;0.95
+Spark Plug;Balkan Hub;1.05.2026;180;189;0.95
+Spark Plug;Balkan Hub;1.06.2026;205;185;0.89
+Timing Belt;Main Warehouse;1.01.2026;161;158;0.98
+Timing Belt;Main Warehouse;1.02.2026;170;154;0.90
+Timing Belt;Main Warehouse;1.03.2026;195;192;0.98
+Timing Belt;Main Warehouse;1.04.2026;176;158;0.89
+Timing Belt;Main Warehouse;1.05.2026;187;186;0.99
+Timing Belt;Main Warehouse;1.06.2026;191;185;0.97
+Timing Belt;EU Warehouse;1.01.2026;123;133;0.92
+Timing Belt;EU Warehouse;1.02.2026;135;128;0.95
+Timing Belt;EU Warehouse;1.03.2026;149;164;0.91
+Timing Belt;EU Warehouse;1.04.2026;134;150;0.89
+Timing Belt;EU Warehouse;1.05.2026;161;180;0.89
+Timing Belt;EU Warehouse;1.06.2026;189;196;0.96
+Timing Belt;Balkan Hub;1.01.2026;94;84;0.88
+Timing Belt;Balkan Hub;1.02.2026;93;93;1.00
+Timing Belt;Balkan Hub;1.03.2026;113;129;0.88
+Timing Belt;Balkan Hub;1.04.2026;124;140;0.89
+Timing Belt;Balkan Hub;1.05.2026;122;127;0.96
+Timing Belt;Balkan Hub;1.06.2026;113;115;0.98
+Battery;Main Warehouse;1.01.2026;87;106;0.82
+Battery;Main Warehouse;1.02.2026;126;155;0.81
+Battery;Main Warehouse;1.03.2026;103;148;0.70
+Battery;Main Warehouse;1.04.2026;142;171;0.83
+Battery;Main Warehouse;1.05.2026;123;166;0.74
+Battery;Main Warehouse;1.06.2026;126;171;0.74
+Battery;EU Warehouse;1.01.2026;98;127;0.77
+Battery;EU Warehouse;1.02.2026;102;125;0.82
+Battery;EU Warehouse;1.03.2026;85;113;0.75
+Battery;EU Warehouse;1.04.2026;82;116;0.71
+Battery;EU Warehouse;1.05.2026;135;168;0.80
+Battery;EU Warehouse;1.06.2026;92;128;0.72
+Battery;Balkan Hub;1.01.2026;61;87;0.70
+Battery;Balkan Hub;1.02.2026;60;75;0.80
+Battery;Balkan Hub;1.03.2026;65;81;0.80
+Battery;Balkan Hub;1.04.2026;78;105;0.74
+Battery;Balkan Hub;1.05.2026;96;133;0.72
+Battery;Balkan Hub;1.06.2026;85;111;0.77
+Wiper Blade;Main Warehouse;1.01.2026;203;211;0.96
+Wiper Blade;Main Warehouse;1.02.2026;224;204;0.90
+Wiper Blade;Main Warehouse;1.03.2026;237;272;0.87
+Wiper Blade;Main Warehouse;1.04.2026;248;250;0.99
+Wiper Blade;Main Warehouse;1.05.2026;250;225;0.89
+Wiper Blade;Main Warehouse;1.06.2026;250;270;0.93
+Wiper Blade;EU Warehouse;1.01.2026;155;143;0.92
+Wiper Blade;EU Warehouse;1.02.2026;186;194;0.96
+Wiper Blade;EU Warehouse;1.03.2026;173;178;0.97
+Wiper Blade;EU Warehouse;1.04.2026;196;208;0.94
+Wiper Blade;EU Warehouse;1.05.2026;220;226;0.97
+Wiper Blade;EU Warehouse;1.06.2026;247;269;0.92
+Wiper Blade;Balkan Hub;1.01.2026;153;141;0.91
+Wiper Blade;Balkan Hub;1.02.2026;140;153;0.92
+Wiper Blade;Balkan Hub;1.03.2026;142;126;0.87
+Wiper Blade;Balkan Hub;1.04.2026;135;145;0.93
+Wiper Blade;Balkan Hub;1.05.2026;177;202;0.88
+Wiper Blade;Balkan Hub;1.06.2026;182;183;0.99
+Headlamp;Main Warehouse;1.01.2026;160;152;0.95
+Headlamp;Main Warehouse;1.02.2026;165;152;0.91
+Headlamp;Main Warehouse;1.03.2026;130;121;0.93
+Headlamp;Main Warehouse;1.04.2026;170;166;0.98
+Headlamp;Main Warehouse;1.05.2026;190;195;0.97
+Headlamp;Main Warehouse;1.06.2026;155;168;0.92
+Headlamp;EU Warehouse;1.01.2026;124;111;0.88
+Headlamp;EU Warehouse;1.02.2026;107;102;0.95
+Headlamp;EU Warehouse;1.03.2026;151;136;0.89
+Headlamp;EU Warehouse;1.04.2026;137;141;0.97
+Headlamp;EU Warehouse;1.05.2026;164;183;0.90
+Headlamp;EU Warehouse;1.06.2026;127;126;0.99
+Headlamp;Balkan Hub;1.01.2026;93;84;0.89
+Headlamp;Balkan Hub;1.02.2026;111;110;0.99
+Headlamp;Balkan Hub;1.03.2026;106;108;0.98
+Headlamp;Balkan Hub;1.04.2026;106;121;0.88
+Headlamp;Balkan Hub;1.05.2026;105;111;0.95
+Headlamp;Balkan Hub;1.06.2026;106;103;0.97
+Radiator;Main Warehouse;1.01.2026;74;106;0.70
+Radiator;Main Warehouse;1.02.2026;65;89;0.73
+Radiator;Main Warehouse;1.03.2026;81;107;0.76
+Radiator;Main Warehouse;1.04.2026;79;101;0.78
+Radiator;Main Warehouse;1.05.2026;88;117;0.75
+Radiator;Main Warehouse;1.06.2026;128;169;0.76
+Radiator;EU Warehouse;1.01.2026;80;115;0.70
+Radiator;EU Warehouse;1.02.2026;83;110;0.75
+Radiator;EU Warehouse;1.03.2026;93;118;0.79
+Radiator;EU Warehouse;1.04.2026;85;113;0.75
+Radiator;EU Warehouse;1.05.2026;87;115;0.76
+Radiator;EU Warehouse;1.06.2026;76;104;0.73
+Radiator;Balkan Hub;1.01.2026;72;99;0.73
+Radiator;Balkan Hub;1.02.2026;38;49;0.78
+Radiator;Balkan Hub;1.03.2026;55;79;0.70
+Radiator;Balkan Hub;1.04.2026;44;52;0.85
+Radiator;Balkan Hub;1.05.2026;80;110;0.73
+Radiator;Balkan Hub;1.06.2026;59;77;0.77
+Fuel Pump;Main Warehouse;1.01.2026;112;105;0.93
+Fuel Pump;Main Warehouse;1.02.2026;128;146;0.88
+Fuel Pump;Main Warehouse;1.03.2026;96;105;0.91
+Fuel Pump;Main Warehouse;1.04.2026;115;124;0.93
+Fuel Pump;Main Warehouse;1.05.2026;110;102;0.92
+Fuel Pump;Main Warehouse;1.06.2026;133;129;0.97
+Fuel Pump;EU Warehouse;1.01.2026;71;80;0.89
+Fuel Pump;EU Warehouse;1.02.2026;72;79;0.91
+Fuel Pump;EU Warehouse;1.03.2026;73;72;0.99
+Fuel Pump;EU Warehouse;1.04.2026;95;94;0.99
+Fuel Pump;EU Warehouse;1.05.2026;79;83;0.95
+Fuel Pump;EU Warehouse;1.06.2026;106;95;0.88
+Fuel Pump;Balkan Hub;1.01.2026;41;37;0.89
+Fuel Pump;Balkan Hub;1.02.2026;66;73;0.90
+Fuel Pump;Balkan Hub;1.03.2026;88;100;0.88
+Fuel Pump;Balkan Hub;1.04.2026;88;83;0.94
+Fuel Pump;Balkan Hub;1.05.2026;72;64;0.88
+Fuel Pump;Balkan Hub;1.06.2026;68;62;0.90
+Clutch Kit;Main Warehouse;1.01.2026;39;44;0.89
+Clutch Kit;Main Warehouse;1.02.2026;92;87;0.94
+Clutch Kit;Main Warehouse;1.03.2026;61;56;0.91
+Clutch Kit;Main Warehouse;1.04.2026;87;99;0.88
+Clutch Kit;Main Warehouse;1.05.2026;81;88;0.92
+Clutch Kit;Main Warehouse;1.06.2026;103;118;0.87
+Clutch Kit;EU Warehouse;1.01.2026;69;66;0.95
+Clutch Kit;EU Warehouse;1.02.2026;37;41;0.90
+Clutch Kit;EU Warehouse;1.03.2026;42;47;0.89
+Clutch Kit;EU Warehouse;1.04.2026;77;81;0.95
+Clutch Kit;EU Warehouse;1.05.2026;48;45;0.93
+Clutch Kit;EU Warehouse;1.06.2026;50;57;0.88
+Clutch Kit;Balkan Hub;1.01.2026;44;38;0.84
+Clutch Kit;Balkan Hub;1.02.2026;41;46;0.89
+Clutch Kit;Balkan Hub;1.03.2026;56;54;0.96
+Clutch Kit;Balkan Hub;1.04.2026;25;28;0.89
+Clutch Kit;Balkan Hub;1.05.2026;45;42;0.93
+Clutch Kit;Balkan Hub;1.06.2026;39;34;0.85
+Cabin Filter;Main Warehouse;1.01.2026;285;256;0.89
+Cabin Filter;Main Warehouse;1.02.2026;285;268;0.94
+Cabin Filter;Main Warehouse;1.03.2026;309;300;0.97
+Cabin Filter;Main Warehouse;1.04.2026;344;360;0.96
+Cabin Filter;Main Warehouse;1.05.2026;370;409;0.90
+Cabin Filter;Main Warehouse;1.06.2026;378;425;0.89
+Cabin Filter;EU Warehouse;1.01.2026;226;244;0.93
+Cabin Filter;EU Warehouse;1.02.2026;232;229;0.99
+Cabin Filter;EU Warehouse;1.03.2026;272;251;0.92
+Cabin Filter;EU Warehouse;1.04.2026;297;328;0.91
+Cabin Filter;EU Warehouse;1.05.2026;279;298;0.94
+Cabin Filter;EU Warehouse;1.06.2026;315;311;0.99
+Cabin Filter;Balkan Hub;1.01.2026;186;167;0.89
+Cabin Filter;Balkan Hub;1.02.2026;190;192;0.99
+Cabin Filter;Balkan Hub;1.03.2026;197;186;0.94
+Cabin Filter;Balkan Hub;1.04.2026;245;215;0.86
+Cabin Filter;Balkan Hub;1.05.2026;223;245;0.91
+Cabin Filter;Balkan Hub;1.06.2026;227;224;0.99

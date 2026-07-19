@@ -1,0 +1,1001 @@
+product_name;forecast_quantity;actual_quantity;forecast_accuracy
+Brake Pad;313;285;0.9018
+Brake Pad;313;276;0.8659
+Brake Pad;313;299;0.9532
+Brake Pad;313;337;0.9288
+Brake Pad;313;339;0.9233
+Brake Pad;313;386;0.8109
+Brake Pad;294;285;0.9684
+Brake Pad;294;276;0.9348
+Brake Pad;294;299;0.9833
+Brake Pad;294;337;0.8724
+Brake Pad;294;339;0.8673
+Brake Pad;294;386;0.7617
+Brake Pad;327;285;0.8526
+Brake Pad;327;276;0.8152
+Brake Pad;327;299;0.9064
+Brake Pad;327;337;0.9703
+Brake Pad;327;339;0.9646
+Brake Pad;327;386;0.8472
+Brake Pad;342;285;0.8000
+Brake Pad;342;276;0.7609
+Brake Pad;342;299;0.8562
+Brake Pad;342;337;0.9852
+Brake Pad;342;339;0.9912
+Brake Pad;342;386;0.8860
+Brake Pad;376;285;0.6807
+Brake Pad;376;276;0.6377
+Brake Pad;376;299;0.7425
+Brake Pad;376;337;0.8843
+Brake Pad;376;339;0.8909
+Brake Pad;376;386;0.9741
+Brake Pad;391;285;0.6281
+Brake Pad;391;276;0.5833
+Brake Pad;391;299;0.6923
+Brake Pad;391;337;0.8398
+Brake Pad;391;339;0.8466
+Brake Pad;391;386;0.9870
+Brake Pad;244;267;0.9139
+Brake Pad;244;266;0.9173
+Brake Pad;244;290;0.8414
+Brake Pad;244;338;0.7219
+Brake Pad;244;295;0.8271
+Brake Pad;244;306;0.7974
+Brake Pad;241;267;0.9026
+Brake Pad;241;266;0.9060
+Brake Pad;241;290;0.8310
+Brake Pad;241;338;0.7130
+Brake Pad;241;295;0.8169
+Brake Pad;241;306;0.7876
+Brake Pad;258;267;0.9663
+Brake Pad;258;266;0.9699
+Brake Pad;258;290;0.8897
+Brake Pad;258;338;0.7633
+Brake Pad;258;295;0.8746
+Brake Pad;258;306;0.8431
+Brake Pad;316;267;0.8165
+Brake Pad;316;266;0.8120
+Brake Pad;316;290;0.9103
+Brake Pad;316;338;0.9349
+Brake Pad;316;295;0.9288
+Brake Pad;316;306;0.9673
+Brake Pad;293;267;0.9026
+Brake Pad;293;266;0.8985
+Brake Pad;293;290;0.9897
+Brake Pad;293;338;0.8669
+Brake Pad;293;295;0.9932
+Brake Pad;293;306;0.9575
+Brake Pad;307;267;0.8502
+Brake Pad;307;266;0.8459
+Brake Pad;307;290;0.9414
+Brake Pad;307;338;0.9083
+Brake Pad;307;295;0.9593
+Brake Pad;307;306;0.9967
+Brake Pad;196;182;0.9231
+Brake Pad;196;181;0.9171
+Brake Pad;196;191;0.9738
+Brake Pad;196;240;0.8167
+Brake Pad;196;230;0.8522
+Brake Pad;196;253;0.7747
+Brake Pad;201;182;0.8956
+Brake Pad;201;181;0.8895
+Brake Pad;201;191;0.9476
+Brake Pad;201;240;0.8375
+Brake Pad;201;230;0.8739
+Brake Pad;201;253;0.7945
+Brake Pad;216;182;0.8132
+Brake Pad;216;181;0.8066
+Brake Pad;216;191;0.8691
+Brake Pad;216;240;0.9000
+Brake Pad;216;230;0.9391
+Brake Pad;216;253;0.8538
+Brake Pad;240;182;0.6813
+Brake Pad;240;181;0.6740
+Brake Pad;240;191;0.7435
+Brake Pad;240;240;10.000
+Brake Pad;240;230;0.9565
+Brake Pad;240;253;0.9486
+Brake Pad;261;182;0.5659
+Brake Pad;261;181;0.5580
+Brake Pad;261;191;0.6335
+Brake Pad;261;240;0.9125
+Brake Pad;261;230;0.8652
+Brake Pad;261;253;0.9684
+Brake Pad;249;182;0.6319
+Brake Pad;249;181;0.6243
+Brake Pad;249;191;0.6963
+Brake Pad;249;240;0.9625
+Brake Pad;249;230;0.9174
+Brake Pad;249;253;0.9842
+Oil Filter;371;326;0.8620
+Oil Filter;371;353;0.9490
+Oil Filter;371;353;0.9490
+Oil Filter;371;374;0.9920
+Oil Filter;371;418;0.8876
+Oil Filter;371;350;0.9400
+Oil Filter;404;326;0.7607
+Oil Filter;404;353;0.8555
+Oil Filter;404;353;0.8555
+Oil Filter;404;374;0.9198
+Oil Filter;404;418;0.9665
+Oil Filter;404;350;0.8457
+Oil Filter;417;326;0.7209
+Oil Filter;417;353;0.8187
+Oil Filter;417;353;0.8187
+Oil Filter;417;374;0.8850
+Oil Filter;417;418;0.9976
+Oil Filter;417;350;0.8086
+Oil Filter;444;326;0.6380
+Oil Filter;444;353;0.7422
+Oil Filter;444;353;0.7422
+Oil Filter;444;374;0.8128
+Oil Filter;444;418;0.9378
+Oil Filter;444;350;0.7314
+Oil Filter;469;326;0.5613
+Oil Filter;469;353;0.6714
+Oil Filter;469;353;0.6714
+Oil Filter;469;374;0.7460
+Oil Filter;469;418;0.8780
+Oil Filter;469;350;0.6600
+Oil Filter;477;326;0.5368
+Oil Filter;477;353;0.6487
+Oil Filter;477;353;0.6487
+Oil Filter;477;374;0.7246
+Oil Filter;477;418;0.8589
+Oil Filter;477;350;0.6371
+Oil Filter;328;255;0.7137
+Oil Filter;328;279;0.8244
+Oil Filter;328;299;0.9030
+Oil Filter;328;296;0.8919
+Oil Filter;328;335;0.9791
+Oil Filter;328;286;0.8531
+Oil Filter;353;255;0.6157
+Oil Filter;353;279;0.7348
+Oil Filter;353;299;0.8194
+Oil Filter;353;296;0.8074
+Oil Filter;353;335;0.9463
+Oil Filter;353;286;0.7657
+Oil Filter;351;255;0.6235
+Oil Filter;351;279;0.7419
+Oil Filter;351;299;0.8261
+Oil Filter;351;296;0.8142
+Oil Filter;351;335;0.9522
+Oil Filter;351;286;0.7727
+Oil Filter;349;255;0.6314
+Oil Filter;349;279;0.7491
+Oil Filter;349;299;0.8328
+Oil Filter;349;296;0.8209
+Oil Filter;349;335;0.9582
+Oil Filter;349;286;0.7797
+Oil Filter;373;255;0.5373
+Oil Filter;373;279;0.6631
+Oil Filter;373;299;0.7525
+Oil Filter;373;296;0.7399
+Oil Filter;373;335;0.8866
+Oil Filter;373;286;0.6958
+Oil Filter;383;255;0.4980
+Oil Filter;383;279;0.6272
+Oil Filter;383;299;0.7191
+Oil Filter;383;296;0.7061
+Oil Filter;383;335;0.8567
+Oil Filter;383;286;0.6608
+Oil Filter;240;194;0.7629
+Oil Filter;240;178;0.6517
+Oil Filter;240;229;0.9520
+Oil Filter;240;200;0.8000
+Oil Filter;240;216;0.8889
+Oil Filter;240;259;0.9266
+Oil Filter;241;194;0.7577
+Oil Filter;241;178;0.6461
+Oil Filter;241;229;0.9476
+Oil Filter;241;200;0.7950
+Oil Filter;241;216;0.8843
+Oil Filter;241;259;0.9305
+Oil Filter;302;194;0.4433
+Oil Filter;302;178;0.3034
+Oil Filter;302;229;0.6812
+Oil Filter;302;200;0.4900
+Oil Filter;302;216;0.6019
+Oil Filter;302;259;0.8340
+Oil Filter;273;194;0.5928
+Oil Filter;273;178;0.4663
+Oil Filter;273;229;0.8079
+Oil Filter;273;200;0.6350
+Oil Filter;273;216;0.7361
+Oil Filter;273;259;0.9459
+Oil Filter;298;194;0.4639
+Oil Filter;298;178;0.3258
+Oil Filter;298;229;0.6987
+Oil Filter;298;200;0.5100
+Oil Filter;298;216;0.6204
+Oil Filter;298;259;0.8494
+Oil Filter;345;194;0.2216
+Oil Filter;345;178;0.0618
+Oil Filter;345;229;0.4934
+Oil Filter;345;200;0.2750
+Oil Filter;345;216;0.4028
+Oil Filter;345;259;0.6680
+Air Filter;329;310;0.9387
+Air Filter;329;312;0.9455
+Air Filter;329;369;0.8916
+Air Filter;329;352;0.9347
+Air Filter;329;438;0.7511
+Air Filter;329;477;0.6897
+Air Filter;354;310;0.8581
+Air Filter;354;312;0.8654
+Air Filter;354;369;0.9593
+Air Filter;354;352;0.9943
+Air Filter;354;438;0.8082
+Air Filter;354;477;0.7421
+Air Filter;398;310;0.7161
+Air Filter;398;312;0.7244
+Air Filter;398;369;0.9214
+Air Filter;398;352;0.8693
+Air Filter;398;438;0.9087
+Air Filter;398;477;0.8344
+Air Filter;400;310;0.7097
+Air Filter;400;312;0.7179
+Air Filter;400;369;0.9160
+Air Filter;400;352;0.8636
+Air Filter;400;438;0.9132
+Air Filter;400;477;0.8386
+Air Filter;428;310;0.6194
+Air Filter;428;312;0.6282
+Air Filter;428;369;0.8401
+Air Filter;428;352;0.7841
+Air Filter;428;438;0.9772
+Air Filter;428;477;0.8973
+Air Filter;462;310;0.5097
+Air Filter;462;312;0.5192
+Air Filter;462;369;0.7480
+Air Filter;462;352;0.6875
+Air Filter;462;438;0.9452
+Air Filter;462;477;0.9686
+Air Filter;289;317;0.9117
+Air Filter;289;298;0.9698
+Air Filter;289;380;0.7605
+Air Filter;289;399;0.7243
+Air Filter;289;346;0.8353
+Air Filter;289;312;0.9263
+Air Filter;286;317;0.9022
+Air Filter;286;298;0.9597
+Air Filter;286;380;0.7526
+Air Filter;286;399;0.7168
+Air Filter;286;346;0.8266
+Air Filter;286;312;0.9167
+Air Filter;332;317;0.9527
+Air Filter;332;298;0.8859
+Air Filter;332;380;0.8737
+Air Filter;332;399;0.8321
+Air Filter;332;346;0.9595
+Air Filter;332;312;0.9359
+Air Filter;353;317;0.8864
+Air Filter;353;298;0.8154
+Air Filter;353;380;0.9289
+Air Filter;353;399;0.8847
+Air Filter;353;346;0.9798
+Air Filter;353;312;0.8686
+Air Filter;337;317;0.9369
+Air Filter;337;298;0.8691
+Air Filter;337;380;0.8868
+Air Filter;337;399;0.8446
+Air Filter;337;346;0.9740
+Air Filter;337;312;0.9199
+Air Filter;353;317;0.8864
+Air Filter;353;298;0.8154
+Air Filter;353;380;0.9289
+Air Filter;353;399;0.8847
+Air Filter;353;346;0.9798
+Air Filter;353;312;0.8686
+Air Filter;248;226;0.9027
+Air Filter;248;266;0.9323
+Air Filter;248;297;0.8350
+Air Filter;248;253;0.9802
+Air Filter;248;324;0.7654
+Air Filter;248;307;0.8078
+Air Filter;240;226;0.9381
+Air Filter;240;266;0.9023
+Air Filter;240;297;0.8081
+Air Filter;240;253;0.9486
+Air Filter;240;324;0.7407
+Air Filter;240;307;0.7818
+Air Filter;270;226;0.8053
+Air Filter;270;266;0.9850
+Air Filter;270;297;0.9091
+Air Filter;270;253;0.9328
+Air Filter;270;324;0.8333
+Air Filter;270;307;0.8795
+Air Filter;256;226;0.8673
+Air Filter;256;266;0.9624
+Air Filter;256;297;0.8620
+Air Filter;256;253;0.9881
+Air Filter;256;324;0.7901
+Air Filter;256;307;0.8339
+Air Filter;288;226;0.7257
+Air Filter;288;266;0.9173
+Air Filter;288;297;0.9697
+Air Filter;288;253;0.8617
+Air Filter;288;324;0.8889
+Air Filter;288;307;0.9381
+Air Filter;303;226;0.6593
+Air Filter;303;266;0.8609
+Air Filter;303;297;0.9798
+Air Filter;303;253;0.8024
+Air Filter;303;324;0.9352
+Air Filter;303;307;0.9870
+Spark Plug;235;250;0.9400
+Spark Plug;235;312;0.7532
+Spark Plug;235;317;0.7413
+Spark Plug;235;276;0.8514
+Spark Plug;235;383;0.6136
+Spark Plug;235;379;0.6201
+Spark Plug;275;250;0.9000
+Spark Plug;275;312;0.8814
+Spark Plug;275;317;0.8675
+Spark Plug;275;276;0.9964
+Spark Plug;275;383;0.7180
+Spark Plug;275;379;0.7256
+Spark Plug;299;250;0.8040
+Spark Plug;299;312;0.9583
+Spark Plug;299;317;0.9432
+Spark Plug;299;276;0.9167
+Spark Plug;299;383;0.7807
+Spark Plug;299;379;0.7889
+Spark Plug;276;250;0.8960
+Spark Plug;276;312;0.8846
+Spark Plug;276;317;0.8707
+Spark Plug;276;276;10.000
+Spark Plug;276;383;0.7206
+Spark Plug;276;379;0.7282
+Spark Plug;337;250;0.6520
+Spark Plug;337;312;0.9199
+Spark Plug;337;317;0.9369
+Spark Plug;337;276;0.7790
+Spark Plug;337;383;0.8799
+Spark Plug;337;379;0.8892
+Spark Plug;346;250;0.6160
+Spark Plug;346;312;0.8910
+Spark Plug;346;317;0.9085
+Spark Plug;346;276;0.7464
+Spark Plug;346;383;0.9034
+Spark Plug;346;379;0.9129
+Spark Plug;230;242;0.9504
+Spark Plug;230;247;0.9312
+Spark Plug;230;216;0.9352
+Spark Plug;230;257;0.8949
+Spark Plug;230;219;0.9498
+Spark Plug;230;248;0.9274
+Spark Plug;229;242;0.9463
+Spark Plug;229;247;0.9271
+Spark Plug;229;216;0.9398
+Spark Plug;229;257;0.8911
+Spark Plug;229;219;0.9543
+Spark Plug;229;248;0.9234
+Spark Plug;217;242;0.8967
+Spark Plug;217;247;0.8785
+Spark Plug;217;216;0.9954
+Spark Plug;217;257;0.8444
+Spark Plug;217;219;0.9909
+Spark Plug;217;248;0.8750
+Spark Plug;233;242;0.9628
+Spark Plug;233;247;0.9433
+Spark Plug;233;216;0.9213
+Spark Plug;233;257;0.9066
+Spark Plug;233;219;0.9361
+Spark Plug;233;248;0.9395
+Spark Plug;247;242;0.9793
+Spark Plug;247;247;10.000
+Spark Plug;247;216;0.8565
+Spark Plug;247;257;0.9611
+Spark Plug;247;219;0.8721
+Spark Plug;247;248;0.9960
+Spark Plug;259;242;0.9298
+Spark Plug;259;247;0.9514
+Spark Plug;259;216;0.8009
+Spark Plug;259;257;0.9922
+Spark Plug;259;219;0.8174
+Spark Plug;259;248;0.9556
+Spark Plug;160;144;0.8889
+Spark Plug;160;166;0.9639
+Spark Plug;160;169;0.9467
+Spark Plug;160;164;0.9756
+Spark Plug;160;189;0.8466
+Spark Plug;160;185;0.8649
+Spark Plug;152;144;0.9444
+Spark Plug;152;166;0.9157
+Spark Plug;152;169;0.8994
+Spark Plug;152;164;0.9268
+Spark Plug;152;189;0.8042
+Spark Plug;152;185;0.8216
+Spark Plug;170;144;0.8194
+Spark Plug;170;166;0.9759
+Spark Plug;170;169;0.9941
+Spark Plug;170;164;0.9634
+Spark Plug;170;189;0.8995
+Spark Plug;170;185;0.9189
+Spark Plug;173;144;0.7986
+Spark Plug;173;166;0.9578
+Spark Plug;173;169;0.9763
+Spark Plug;173;164;0.9451
+Spark Plug;173;189;0.9153
+Spark Plug;173;185;0.9351
+Spark Plug;180;144;0.7500
+Spark Plug;180;166;0.9157
+Spark Plug;180;169;0.9349
+Spark Plug;180;164;0.9024
+Spark Plug;180;189;0.9524
+Spark Plug;180;185;0.9730
+Spark Plug;205;144;0.5764
+Spark Plug;205;166;0.7651
+Spark Plug;205;169;0.7870
+Spark Plug;205;164;0.7500
+Spark Plug;205;189;0.9153
+Spark Plug;205;185;0.8919
+Timing Belt;161;158;0.9810
+Timing Belt;161;154;0.9545
+Timing Belt;161;192;0.8385
+Timing Belt;161;158;0.9810
+Timing Belt;161;186;0.8656
+Timing Belt;161;185;0.8703
+Timing Belt;170;158;0.9241
+Timing Belt;170;154;0.8961
+Timing Belt;170;192;0.8854
+Timing Belt;170;158;0.9241
+Timing Belt;170;186;0.9140
+Timing Belt;170;185;0.9189
+Timing Belt;195;158;0.7658
+Timing Belt;195;154;0.7338
+Timing Belt;195;192;0.9844
+Timing Belt;195;158;0.7658
+Timing Belt;195;186;0.9516
+Timing Belt;195;185;0.9459
+Timing Belt;176;158;0.8861
+Timing Belt;176;154;0.8571
+Timing Belt;176;192;0.9167
+Timing Belt;176;158;0.8861
+Timing Belt;176;186;0.9462
+Timing Belt;176;185;0.9514
+Timing Belt;187;158;0.8165
+Timing Belt;187;154;0.7857
+Timing Belt;187;192;0.9740
+Timing Belt;187;158;0.8165
+Timing Belt;187;186;0.9946
+Timing Belt;187;185;0.9892
+Timing Belt;191;158;0.7911
+Timing Belt;191;154;0.7597
+Timing Belt;191;192;0.9948
+Timing Belt;191;158;0.7911
+Timing Belt;191;186;0.9731
+Timing Belt;191;185;0.9676
+Timing Belt;123;133;0.9248
+Timing Belt;123;128;0.9609
+Timing Belt;123;164;0.7500
+Timing Belt;123;150;0.8200
+Timing Belt;123;180;0.6833
+Timing Belt;123;196;0.6276
+Timing Belt;135;133;0.9850
+Timing Belt;135;128;0.9453
+Timing Belt;135;164;0.8232
+Timing Belt;135;150;0.9000
+Timing Belt;135;180;0.7500
+Timing Belt;135;196;0.6888
+Timing Belt;149;133;0.8797
+Timing Belt;149;128;0.8359
+Timing Belt;149;164;0.9085
+Timing Belt;149;150;0.9933
+Timing Belt;149;180;0.8278
+Timing Belt;149;196;0.7602
+Timing Belt;134;133;0.9925
+Timing Belt;134;128;0.9531
+Timing Belt;134;164;0.8171
+Timing Belt;134;150;0.8933
+Timing Belt;134;180;0.7444
+Timing Belt;134;196;0.6837
+Timing Belt;161;133;0.7895
+Timing Belt;161;128;0.7422
+Timing Belt;161;164;0.9817
+Timing Belt;161;150;0.9267
+Timing Belt;161;180;0.8944
+Timing Belt;161;196;0.8214
+Timing Belt;189;133;0.5789
+Timing Belt;189;128;0.5234
+Timing Belt;189;164;0.8476
+Timing Belt;189;150;0.7400
+Timing Belt;189;180;0.9500
+Timing Belt;189;196;0.9643
+Timing Belt;94;84;0.8810
+Timing Belt;94;93;0.9892
+Timing Belt;94;129;0.7287
+Timing Belt;94;140;0.6714
+Timing Belt;94;127;0.7402
+Timing Belt;94;115;0.8174
+Timing Belt;93;84;0.8929
+Timing Belt;93;93;10.000
+Timing Belt;93;129;0.7209
+Timing Belt;93;140;0.6643
+Timing Belt;93;127;0.7323
+Timing Belt;93;115;0.8087
+Timing Belt;113;84;0.6548
+Timing Belt;113;93;0.7849
+Timing Belt;113;129;0.8760
+Timing Belt;113;140;0.8071
+Timing Belt;113;127;0.8898
+Timing Belt;113;115;0.9826
+Timing Belt;124;84;0.5238
+Timing Belt;124;93;0.6667
+Timing Belt;124;129;0.9612
+Timing Belt;124;140;0.8857
+Timing Belt;124;127;0.9764
+Timing Belt;124;115;0.9217
+Timing Belt;122;84;0.5476
+Timing Belt;122;93;0.6882
+Timing Belt;122;129;0.9457
+Timing Belt;122;140;0.8714
+Timing Belt;122;127;0.9606
+Timing Belt;122;115;0.9391
+Timing Belt;113;84;0.6548
+Timing Belt;113;93;0.7849
+Timing Belt;113;129;0.8760
+Timing Belt;113;140;0.8071
+Timing Belt;113;127;0.8898
+Timing Belt;113;115;0.9826
+Battery;87;106;0.8208
+Battery;87;155;0.5613
+Battery;87;148;0.5878
+Battery;87;171;0.5088
+Battery;87;166;0.5241
+Battery;87;171;0.5088
+Battery;126;106;0.8113
+Battery;126;155;0.8129
+Battery;126;148;0.8514
+Battery;126;171;0.7368
+Battery;126;166;0.7590
+Battery;126;171;0.7368
+Battery;103;106;0.9717
+Battery;103;155;0.6645
+Battery;103;148;0.6959
+Battery;103;171;0.6023
+Battery;103;166;0.6205
+Battery;103;171;0.6023
+Battery;142;106;0.6604
+Battery;142;155;0.9161
+Battery;142;148;0.9595
+Battery;142;171;0.8304
+Battery;142;166;0.8554
+Battery;142;171;0.8304
+Battery;123;106;0.8396
+Battery;123;155;0.7935
+Battery;123;148;0.8311
+Battery;123;171;0.7193
+Battery;123;166;0.7410
+Battery;123;171;0.7193
+Battery;126;106;0.8113
+Battery;126;155;0.8129
+Battery;126;148;0.8514
+Battery;126;171;0.7368
+Battery;126;166;0.7590
+Battery;126;171;0.7368
+Battery;98;127;0.7717
+Battery;98;125;0.7840
+Battery;98;113;0.8673
+Battery;98;116;0.8448
+Battery;98;168;0.5833
+Battery;98;128;0.7656
+Battery;102;127;0.8031
+Battery;102;125;0.8160
+Battery;102;113;0.9027
+Battery;102;116;0.8793
+Battery;102;168;0.6071
+Battery;102;128;0.7969
+Battery;85;127;0.6693
+Battery;85;125;0.6800
+Battery;85;113;0.7522
+Battery;85;116;0.7328
+Battery;85;168;0.5060
+Battery;85;128;0.6641
+Battery;82;127;0.6457
+Battery;82;125;0.6560
+Battery;82;113;0.7257
+Battery;82;116;0.7069
+Battery;82;168;0.4881
+Battery;82;128;0.6406
+Battery;135;127;0.9370
+Battery;135;125;0.9200
+Battery;135;113;0.8053
+Battery;135;116;0.8362
+Battery;135;168;0.8036
+Battery;135;128;0.9453
+Battery;92;127;0.7244
+Battery;92;125;0.7360
+Battery;92;113;0.8142
+Battery;92;116;0.7931
+Battery;92;168;0.5476
+Battery;92;128;0.7188
+Battery;61;87;0.7011
+Battery;61;75;0.8133
+Battery;61;81;0.7531
+Battery;61;105;0.5810
+Battery;61;133;0.4586
+Battery;61;111;0.5495
+Battery;60;87;0.6897
+Battery;60;75;0.8000
+Battery;60;81;0.7407
+Battery;60;105;0.5714
+Battery;60;133;0.4511
+Battery;60;111;0.5405
+Battery;65;87;0.7471
+Battery;65;75;0.8667
+Battery;65;81;0.8025
+Battery;65;105;0.6190
+Battery;65;133;0.4887
+Battery;65;111;0.5856
+Battery;78;87;0.8966
+Battery;78;75;0.9600
+Battery;78;81;0.9630
+Battery;78;105;0.7429
+Battery;78;133;0.5865
+Battery;78;111;0.7027
+Battery;96;87;0.8966
+Battery;96;75;0.7200
+Battery;96;81;0.8148
+Battery;96;105;0.9143
+Battery;96;133;0.7218
+Battery;96;111;0.8649
+Battery;85;87;0.9770
+Battery;85;75;0.8667
+Battery;85;81;0.9506
+Battery;85;105;0.8095
+Battery;85;133;0.6391
+Battery;85;111;0.7658
+Wiper Blade;203;211;0.9621
+Wiper Blade;203;204;0.9951
+Wiper Blade;203;272;0.7463
+Wiper Blade;203;250;0.8120
+Wiper Blade;203;225;0.9022
+Wiper Blade;203;270;0.7519
+Wiper Blade;224;211;0.9384
+Wiper Blade;224;204;0.9020
+Wiper Blade;224;272;0.8235
+Wiper Blade;224;250;0.8960
+Wiper Blade;224;225;0.9956
+Wiper Blade;224;270;0.8296
+Wiper Blade;237;211;0.8768
+Wiper Blade;237;204;0.8382
+Wiper Blade;237;272;0.8713
+Wiper Blade;237;250;0.9480
+Wiper Blade;237;225;0.9467
+Wiper Blade;237;270;0.8778
+Wiper Blade;248;211;0.8246
+Wiper Blade;248;204;0.7843
+Wiper Blade;248;272;0.9118
+Wiper Blade;248;250;0.9920
+Wiper Blade;248;225;0.8978
+Wiper Blade;248;270;0.9185
+Wiper Blade;250;211;0.8152
+Wiper Blade;250;204;0.7745
+Wiper Blade;250;272;0.9191
+Wiper Blade;250;250;10.000
+Wiper Blade;250;225;0.8889
+Wiper Blade;250;270;0.9259
+Wiper Blade;250;211;0.8152
+Wiper Blade;250;204;0.7745
+Wiper Blade;250;272;0.9191
+Wiper Blade;250;250;10.000
+Wiper Blade;250;225;0.8889
+Wiper Blade;250;270;0.9259
+Wiper Blade;155;143;0.9161
+Wiper Blade;155;194;0.7990
+Wiper Blade;155;178;0.8708
+Wiper Blade;155;208;0.7452
+Wiper Blade;155;226;0.6858
+Wiper Blade;155;269;0.5762
+Wiper Blade;186;143;0.6993
+Wiper Blade;186;194;0.9588
+Wiper Blade;186;178;0.9551
+Wiper Blade;186;208;0.8942
+Wiper Blade;186;226;0.8230
+Wiper Blade;186;269;0.6914
+Wiper Blade;173;143;0.7902
+Wiper Blade;173;194;0.8918
+Wiper Blade;173;178;0.9719
+Wiper Blade;173;208;0.8317
+Wiper Blade;173;226;0.7655
+Wiper Blade;173;269;0.6431
+Wiper Blade;196;143;0.6294
+Wiper Blade;196;194;0.9897
+Wiper Blade;196;178;0.8989
+Wiper Blade;196;208;0.9423
+Wiper Blade;196;226;0.8673
+Wiper Blade;196;269;0.7286
+Wiper Blade;220;143;0.4615
+Wiper Blade;220;194;0.8660
+Wiper Blade;220;178;0.7640
+Wiper Blade;220;208;0.9423
+Wiper Blade;220;226;0.9735
+Wiper Blade;220;269;0.8178
+Wiper Blade;247;143;0.2727
+Wiper Blade;247;194;0.7268
+Wiper Blade;247;178;0.6124
+Wiper Blade;247;208;0.8125
+Wiper Blade;247;226;0.9071
+Wiper Blade;247;269;0.9182
+Wiper Blade;153;141;0.9149
+Wiper Blade;153;153;10.000
+Wiper Blade;153;126;0.7857
+Wiper Blade;153;145;0.9448
+Wiper Blade;153;202;0.7574
+Wiper Blade;153;183;0.8361
+Wiper Blade;140;141;0.9929
+Wiper Blade;140;153;0.9150
+Wiper Blade;140;126;0.8889
+Wiper Blade;140;145;0.9655
+Wiper Blade;140;202;0.6931
+Wiper Blade;140;183;0.7650
+Wiper Blade;142;141;0.9929
+Wiper Blade;142;153;0.9281
+Wiper Blade;142;126;0.8730
+Wiper Blade;142;145;0.9793
+Wiper Blade;142;202;0.7030
+Wiper Blade;142;183;0.7760
+Wiper Blade;135;141;0.9574
+Wiper Blade;135;153;0.8824
+Wiper Blade;135;126;0.9286
+Wiper Blade;135;145;0.9310
+Wiper Blade;135;202;0.6683
+Wiper Blade;135;183;0.7377
+Wiper Blade;177;141;0.7447
+Wiper Blade;177;153;0.8431
+Wiper Blade;177;126;0.5952
+Wiper Blade;177;145;0.7793
+Wiper Blade;177;202;0.8762
+Wiper Blade;177;183;0.9672
+Wiper Blade;182;141;0.7092
+Wiper Blade;182;153;0.8105
+Wiper Blade;182;126;0.5556
+Wiper Blade;182;145;0.7448
+Wiper Blade;182;202;0.9010
+Wiper Blade;182;183;0.9945
+Headlamp;160;152;0.9474
+Headlamp;160;152;0.9474
+Headlamp;160;121;0.6777
+Headlamp;160;166;0.9639
+Headlamp;160;195;0.8205
+Headlamp;160;168;0.9524
+Headlamp;165;152;0.9145
+Headlamp;165;152;0.9145
+Headlamp;165;121;0.6364
+Headlamp;165;166;0.9940
+Headlamp;165;195;0.8462
+Headlamp;165;168;0.9821
+Headlamp;130;152;0.8553
+Headlamp;130;152;0.8553
+Headlamp;130;121;0.9256
+Headlamp;130;166;0.7831
+Headlamp;130;195;0.6667
+Headlamp;130;168;0.7738
+Headlamp;170;152;0.8816
+Headlamp;170;152;0.8816
+Headlamp;170;121;0.5950
+Headlamp;170;166;0.9759
+Headlamp;170;195;0.8718
+Headlamp;170;168;0.9881
+Headlamp;190;152;0.7500
+Headlamp;190;152;0.7500
+Headlamp;190;121;0.4298
+Headlamp;190;166;0.8554
+Headlamp;190;195;0.9744
+Headlamp;190;168;0.8690
+Headlamp;155;152;0.9803
+Headlamp;155;152;0.9803
+Headlamp;155;121;0.7190
+Headlamp;155;166;0.9337
+Headlamp;155;195;0.7949
+Headlamp;155;168;0.9226
+Headlamp;124;111;0.8829
+Headlamp;124;102;0.7843
+Headlamp;124;136;0.9118
+Headlamp;124;141;0.8794
+Headlamp;124;183;0.6776
+Headlamp;124;126;0.9841
+Headlamp;107;111;0.9640
+Headlamp;107;102;0.9510
+Headlamp;107;136;0.7868
+Headlamp;107;141;0.7589
+Headlamp;107;183;0.5847
+Headlamp;107;126;0.8492
+Headlamp;151;111;0.6396
+Headlamp;151;102;0.5196
+Headlamp;151;136;0.8897
+Headlamp;151;141;0.9291
+Headlamp;151;183;0.8251
+Headlamp;151;126;0.8016
+Headlamp;137;111;0.7658
+Headlamp;137;102;0.6569
+Headlamp;137;136;0.9926
+Headlamp;137;141;0.9716
+Headlamp;137;183;0.7486
+Headlamp;137;126;0.9127
+Headlamp;164;111;0.5225
+Headlamp;164;102;0.3922
+Headlamp;164;136;0.7941
+Headlamp;164;141;0.8369
+Headlamp;164;183;0.8962
+Headlamp;164;126;0.6984
+Headlamp;127;111;0.8559
+Headlamp;127;102;0.7549
+Headlamp;127;136;0.9338
+Headlamp;127;141;0.9007
+Headlamp;127;183;0.6940
+Headlamp;127;126;0.9921
+Headlamp;93;84;0.8929
+Headlamp;93;110;0.8455
+Headlamp;93;108;0.8611
+Headlamp;93;121;0.7686
+Headlamp;93;111;0.8378
+Headlamp;93;103;0.9029
+Headlamp;111;84;0.6786
+Headlamp;111;110;0.9909
+Headlamp;111;108;0.9722
+Headlamp;111;121;0.9174
+Headlamp;111;111;10.000
+Headlamp;111;103;0.9223
+Headlamp;106;84;0.7381
+Headlamp;106;110;0.9636
+Headlamp;106;108;0.9815
+Headlamp;106;121;0.8760
+Headlamp;106;111;0.9550
+Headlamp;106;103;0.9709
+Headlamp;106;84;0.7381
+Headlamp;106;110;0.9636
+Headlamp;106;108;0.9815
+Headlamp;106;121;0.8760
+Headlamp;106;111;0.9550
+Headlamp;106;103;0.9709
+Headlamp;105;84;0.7500
+Headlamp;105;110;0.9545
+Headlamp;105;108;0.9722
+Headlamp;105;121;0.8678
+Headlamp;105;111;0.9459
+Headlamp;105;103;0.9806
+Headlamp;106;84;0.7381
+Headlamp;106;110;0.9636
+Headlamp;106;108;0.9815
+Headlamp;106;121;0.8760
+Headlamp;106;111;0.9550
+Headlamp;106;103;0.9709
+Radiator;74;106;0.6981
+Radiator;74;89;0.8315
+Radiator;74;107;0.6916
+Radiator;74;101;0.7327
+Radiator;74;117;0.6325
+Radiator;74;169;0.4379
+Radiator;65;106;0.6132
+Radiator;65;89;0.7303
+Radiator;65;107;0.6075
+Radiator;65;101;0.6436
+Radiator;65;117;0.5556
+Radiator;65;169;0.3846
+Radiator;81;106;0.7642
+Radiator;81;89;0.9101
+Radiator;81;107;0.7570
+Radiator;81;101;0.8020
+Radiator;81;117;0.6923
+Radiator;81;169;0.4793
+Radiator;79;106;0.7453
+Radiator;79;89;0.8876
+Radiator;79;107;0.7383
+Radiator;79;101;0.7822
+Radiator;79;117;0.6752
+Radiator;79;169;0.4675
+Radiator;88;106;0.8302
+Radiator;88;89;0.9888
+Radiator;88;107;0.8224
+Radiator;88;101;0.8713
+Radiator;88;117;0.7521
+Radiator;88;169;0.5207
+Radiator;128;106;0.7925
+Radiator;128;89;0.5618
+Radiator;128;107;0.8037
+Radiator;128;101;0.7327
+Radiator;128;117;0.9060
+Radiator;128;169;0.7574
+Radiator;80;115;0.6957
+Radiator;80;110;0.7273
+Radiator;80;118;0.6780
+Radiator;80;113;0.7080
+Radiator;80;115;0.6957
+Radiator;80;104;0.7692
+Radiator;83;115;0.7217
+Radiator;83;110;0.7545
+Radiator;83;118;0.7034
+Radiator;83;113;0.7345
+Radiator;83;115;0.7217
+Radiator;83;104;0.7981
+Radiator;93;115;0.8087
+Radiator;93;110;0.8455
+Radiator;93;118;0.7881
+Radiator;93;113;0.8230
+Radiator;93;115;0.8087
+Radiator;93;104;0.8942
+Radiator;85;115;0.7391
+Radiator;85;110;0.7727
+Radiator;85;118;0.7203
+Radiator;85;113;0.7522
+Radiator;85;115;0.7391
+Radiator;85;104;0.8173
+Radiator;87;115;0.7565
+Radiator;87;110;0.7909
+Radiator;87;118;0.7373
+Radiator;87;113;0.7699
+Radiator;87;115;0.7565
+Radiator;87;104;0.8365
+Radiator;76;115;0.6609
+Radiator;76;110;0.6909
+Radiator;76;118;0.6441
+Radiator;76;113;0.6726
+Radiator;76;115;0.6609
+Radiator;76;104;0.7308
+Radiator;72;99;0.7273
+Radiator;72;49;0.5306
+Radiator;72;79;0.9114
+Radiator;72;52;0.6154
+Radiator;72;110;0.6545
+Radiator;72;77;0.9351
+Radiator;38;99;0.3838
+Radiator;38;49;0.7755
+Radiator;38;79;0.4810
+Radiator;38;52;0.7308
+Radiator;38;110;0.3455
+Radiator;38;77;0.4935
+Radiator;55;99;0.5556
+Radiator;55;49;0.8776
+Radiator;55;79;0.6962
+Radiator;55;52;0.9423
+Radiator;55;110;0.5000
+Radiator;55;77;0.7143
+Radiator;44;99;0.4444
+Radiator;44;49;0.8980
+Radiator;44;79;0.5570
+Radiator;44;52;0.8462
+Radiator;44;110;0.4000
+Radiator;44;77;0.5714
+Radiator;80;99;0.8081
+Radiator;80;49;0.3673
+Radiator;80;79;0.9873
+Radiator;80;52;0.4615
+Radiator;80;110;0.7273
+Radiator;80;77;0.9610
+Radiator;59;99;0.5960
+Radiator;59;49;0.7959
+Radiator;59;79;0.7468
+Radiator;59;52;0.8654
+Radiator;59;110;0.5364
+Radiator;59;77;0.7662
+Fuel Pump;112;105;0.9333
+Fuel Pump;112;146;0.7671
+Fuel Pump;112;105;0.9333
+Fuel Pump;112;124;0.9032
+Fuel Pump;112;102;0.9020
+Fuel Pump;112;129;0.8682
+Fuel Pump;128;105;0.7810
+Fuel Pump;128;146;0.8767
+Fuel Pump;128;105;0.7810
+Fuel Pump;128;124;0.9677
+Fuel Pump;128;102;0.7451
+Fuel Pump;128;129;0.9922
+Fuel Pump;96;105;0.9143
+Fuel Pump;96;146;0.6575
+Fuel Pump;96;105;0.9143
+Fuel Pump;96;124;0.7742
+Fuel Pump;96;102;0.9412
+Fuel Pump;96;129;0.7442
+Fuel Pump;115;105;0.9048
+Fuel Pump;115;146;0.7877
+Fuel Pump;115;105;0.9048
+Fuel Pump;115;124;0.9274
+Fuel Pump;115;102;0.8725
+Fuel Pump;115;129;0.8915
+Fuel Pump;110;105;0.9524
+Fuel Pump;110;146;0.7534
+Fuel Pump;110;105;0.9524
+Fuel Pump;110;124;0.8871

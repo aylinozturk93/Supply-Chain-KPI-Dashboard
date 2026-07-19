@@ -1,0 +1,13 @@
+product_name;stockout_rate;risk_rank
+Radiator;66.67;1
+Battery;33.33;2
+Clutch Kit;33.33;2
+Brake Pad;0.00;4
+Oil Filter;0.00;4
+Air Filter;0.00;4
+Spark Plug;0.00;4
+Timing Belt;0.00;4
+Wiper Blade;0.00;4
+Headlamp;0.00;4
+Fuel Pump;0.00;4
+Cabin Filter;0.00;4
