@@ -1,0 +1,9 @@
+supplier_id;supplier_name;country;status
+1;ABC Logistics;Germany;Active
+2;XYZ Supply;Turkey;Active
+3;EuroParts GmbH;Germany;Active
+4;FastTrade;Italy;Inactive
+5;Anatolia Components;Turkey;Active
+6;Nordic Spare Parts;Sweden;Active
+7;Iberia Auto Supply;Spain;Active
+8;Balkan Industrials;Bulgaria;Active

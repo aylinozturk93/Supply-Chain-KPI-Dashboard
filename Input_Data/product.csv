@@ -1,0 +1,13 @@
+product_id;product_name;category;unit_price;standard_lead_time;status
+101;Brake Pad;Automotive;50;7;Active
+102;Oil Filter;Automotive;20;5;Active
+103;Air Filter;Automotive;25;6;Active
+104;Spark Plug;Automotive;15;4;Active
+105;Timing Belt;Automotive;90;10;Active
+106;Battery;Automotive;130;12;Active
+107;Wiper Blade;Automotive;18;3;Active
+108;Headlamp;Automotive;75;8;Active
+109;Radiator;Automotive;160;14;Active
+110;Fuel Pump;Automotive;110;11;Active
+111;Clutch Kit;Automotive;220;16;Active
+112;Cabin Filter;Automotive;22;5;Active

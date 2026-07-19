@@ -1,0 +1,4 @@
+warehouse_id;warehouse_name;city;country;capacity;status
+1;Main Warehouse;Istanbul;Turkey;15000;Active
+2;EU Warehouse;Berlin;Germany;12000;Active
+3;Balkan Hub;Sofia;Bulgaria;9000;Active
